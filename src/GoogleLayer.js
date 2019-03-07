@@ -2,7 +2,7 @@ import React from "react";
 import PropTypes from "prop-types";
 import * as L from "leaflet";
 import { GridLayer, withLeaflet } from "react-leaflet";
-import "./leaflet.google";
+import "leaflet.gridlayer.googlemutant";
 
 class GoogleLayer extends GridLayer {
   static propTypes = {

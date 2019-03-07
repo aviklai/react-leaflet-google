@@ -59,5 +59,8 @@
     "react-leaflet": "^2.0.1",
     "webpack": "^1.13.0",
     "webpack-dev-server": "^1.12.1"
+  },
+  "dependencies": {
+    "leaflet.gridlayer.googlemutant": "^0.8.0"
   }
 }
